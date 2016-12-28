@@ -2,5 +2,9 @@
   "name": "react-gulp",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^15.4.1",
+    "webpack": "^1.14.0"
+  }
 }
